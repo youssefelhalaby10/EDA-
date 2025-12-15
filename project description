@@ -1,0 +1,26 @@
+# Project Description
+
+## Topic
+Analysis of Object-Oriented Programming Languages Popularity and Developer Trends.
+
+This project studies how popular object-oriented programming languages (such as Python, Java, and C++) are among developers and how factors like experience relate to compensation.
+
+## Hypotheses
+- Python is one of the most widely used object-oriented programming languages.
+- Developers with more experience tend to earn higher salaries.
+- The popularity of Python has increased over time.
+
+## Data Source
+- **Stack Overflow Developer Survey**
+- Source: Kaggle (public dataset)
+- Format: CSV
+- Description: Annual survey data containing information about developers, programming languages used, experience, salary, and demographics.
+
+## Methodology
+- Load and clean the dataset
+- Store and manipulate data using Python classes (OOP)
+- Visualize comparisons, relationships, and time-based trends
+- Interpret insights based on the exploratory analysis
+
+## Notes
+The dataset and hypotheses may evolve as further analysis is conducted.
